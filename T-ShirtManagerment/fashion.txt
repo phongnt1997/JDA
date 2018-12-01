@@ -1,0 +1,2 @@
+e111;yakata;m;1000
+e222;boomber;m;1000
